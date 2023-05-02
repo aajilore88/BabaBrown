@@ -1,4 +1,3 @@
-
 theme: jekyll-theme-minimal
-title: Ajilore Adeolu's Homepage
+title: aajilore88's homepage
 description: Bookmark this to keep an eye on my project updates!
